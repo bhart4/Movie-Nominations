@@ -25,7 +25,7 @@ const App = () => {
 	const [isModalVisible, setIsModalVisible] = useState(false);
 
 	const getMovieRequest = async (searchValue) => {
-		const url = `http://www.omdbapi.com/?s=${searchValue}&type=movie&apikey=263d22d8`;
+		const url = `https://www.omdbapi.com/?s=${searchValue}&type=movie&apikey=263d22d8`;
 
 		const response = await fetch(url);
 		console.log(response);

@@ -1,6 +1,6 @@
 {
-  "homepage": "http://yuribenjamin.github.io/my-app",
-  "name": "movie-app",
+  "homepage": "http://bhart4.github.io/Movie-Nominations",
+  "name": "movie-noms",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
