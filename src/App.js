@@ -209,7 +209,7 @@ const App = () => {
 							</Row>
 						</Content>
 					</Layout>
-					<Footer style={{ textAlign: 'center', position: 'relative', bottom: '0px', width: '100%' }}>OMDB Movies ©2020</Footer>
+					<Footer style={{ textAlign: 'center', position: 'relative', bottom: '0px', width: '100%' }}>OMDB Movies ©2021</Footer>
 				</Layout>
 			</div >
 		);
